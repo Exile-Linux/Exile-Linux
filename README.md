@@ -24,7 +24,7 @@ Exile Linux operates as an amnesic system, ensuring that each session begins fro
 | **User Interface** | Plasma 6 |
 | **Primary Font** | JetBrains Mono |
 | **Session Type** | Live / Amnesic |
-| **Init System** | Systemd |
+| **Init System** | Systemd (an ExileInit is in development, this is just temporary. |
 
 ## Build Procedure
 Building the Exile Linux ISO requires a host system running Arch Linux with the `archiso` package installed.
