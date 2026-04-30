@@ -1,6 +1,5 @@
 # EXILE LINUX
-### Minimalist Amnesic Environment
-
+### Minimalist De-Corped Linux
 ![Exile Linux Wallpaper](airootfs/usr/share/backgrounds/ExileLinuxWallpaper.jpg)
 
 Exile Linux is a specialized, Arch based Linux Distribution designed to escape corporate greed, the aim is to remove any proprietary software. We used Arch as it is a build it yourself distribution, which matches out values, when you install Exile Linux, it is entirely yours to do with as you please, you can break it if you want or modify the code to your liking.
