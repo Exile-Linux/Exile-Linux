@@ -3,12 +3,12 @@
 
 ![Exile Linux Wallpaper](airootfs/usr/share/backgrounds/ExileLinuxWallpaper.jpg)
 
-Exile Linux is a specialized, Arch-based live environment engineered for security, privacy, and technical precision. Utilizing the KDE Plasma 6 desktop environment on the Wayland protocol, it provides a volatile, high-performance workspace designed for digital sovereignty.
+Exile Linux is a specialized, Arch based Linux Distribution designed to escape corporate greed, the aim is to remove any proprietary software. We used Arch as it is a build it yourself distribution, which matches out values, when you install Exile Linux, it is entirely yours to do with as you please, you can break it if you want or modify the code to your liking.
 
 ---
 
 ## Technical Overview
-Exile Linux operates as an amnesic system, ensuring that each session begins from a clean state. It is designed to serve as a secure baseline for rescue operations, security auditing, and private computing.
+It is still in development but the live environment is booting as designed.
 
 * **Core Architecture:** Arch Linux x86_64
 * **Desktop Interface:** KDE Plasma 6 (Wayland)
